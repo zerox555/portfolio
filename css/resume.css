@@ -193,3 +193,18 @@ a:focus,
 a:active {
   color: #824027;
 }
+
+.rounded-box {
+  border: 2px solid #000;
+  border-radius: 12px;
+  padding: 10px;
+  display: inline-block;
+  background-color: #f9f9f9;
+}
+.rounded-box a {
+  color: #BD5D38 ;
+  text-decoration: none;
+}
+.rounded-box a:hover {
+  text-decoration: underline;
+}
